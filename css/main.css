@@ -5,4 +5,11 @@
 
 .center{
     text-align:center;
+    line-height: 0.7em;
+}
+
+.strong{
+    font-weight: 800;
+    font-size: .8em;
+    padding-top: 10px;
 }
